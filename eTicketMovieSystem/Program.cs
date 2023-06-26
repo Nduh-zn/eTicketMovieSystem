@@ -23,4 +23,4 @@ namespace eTicketMovieSystem
                     webBuilder.UseStartup<Startup>();
                 });
     }
-}
+ }
